@@ -8,7 +8,7 @@ license = "MIT"
 [tool.poetry.dependencies]
 python = "^3.7"
 gooey = "^1.0.8"
-kassia = { path = "./kassia/", develop = false }
+kassia = { path = "./kassia/", develop = true }
 
 [tool.poetry.dev-dependencies]
 
